@@ -1,0 +1,3 @@
+/spring-security-auth-server/*.gitignore
+*.class
+*.jar
